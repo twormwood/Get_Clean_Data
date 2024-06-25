@@ -27,4 +27,4 @@ You should create one R script called run_analysis.R that does the following:
 
 Good luck!
 
-run_analysis.R contains the code to perform these transformations. The CodeBook.md explains in detail each transformation and how the data from the zip file is pieced together.
+[run_analysis.R](https://github.com/twormwood/Get_Clean_Data/blob/main/run_analysis.R) contains the code to perform these transformations. The [CodeBook.md](https://github.com/twormwood/Get_Clean_Data/blob/main/CodeBook.md) explains in detail each transformation and how the data from the zip file is pieced together.
