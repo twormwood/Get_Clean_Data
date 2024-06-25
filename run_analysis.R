@@ -73,5 +73,6 @@ tidy_means<-relocate(tidy_means, activity_label, .after=subject_id)
 
 ##The data frame with the means by activity and subject_id is called 'tidy_means'.
 write.csv(tidy_means, file="./tidy_means.csv")
+write.table(tidy_means, file="./tidy_means.txt", row.names=FALSE)
 
 ##Time 10:49am 25 June
